@@ -1,9 +1,9 @@
 {
   "name": "gatsby-starter-default",
   "private": true,
-  "description": "A simple starter to get up and developing quickly with Gatsby",
+  "description": "Personal Blog",
   "version": "0.1.0",
-  "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+  "author": "Akhil Gupta <akhil.gupta@rhsmith.umd.edu>",
   "dependencies": {
     "gatsby": "^2.0.117",
     "gatsby-image": "^2.0.29",
@@ -19,7 +19,7 @@
     "react-helmet": "^5.2.0"
   },
   "keywords": [
-    "gatsby"
+    "gatsby", "reactjs", "graphql"
   ],
   "license": "MIT",
   "scripts": {
