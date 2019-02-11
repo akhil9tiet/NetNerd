@@ -10,6 +10,7 @@
     "gatsby-plugin-manifest": "^2.0.17",
     "gatsby-plugin-offline": "^2.0.23",
     "gatsby-plugin-react-helmet": "^3.0.6",
+    "gatsby-plugin-sass": "^2.0.10",
     "gatsby-plugin-sharp": "^2.0.20",
     "gatsby-source-filesystem": "^2.0.20",
     "gatsby-transformer-sharp": "^2.1.13",
@@ -19,7 +20,9 @@
     "react-helmet": "^5.2.0"
   },
   "keywords": [
-    "gatsby", "reactjs", "graphql"
+    "gatsby",
+    "reactjs",
+    "graphql"
   ],
   "license": "MIT",
   "scripts": {
@@ -35,5 +38,8 @@
   },
   "bugs": {
     "url": "https://github.com/gatsbyjs/gatsby/issues"
+  },
+  "devDependencies": {
+    "node-sass": "^4.11.0"
   }
 }
