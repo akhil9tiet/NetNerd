@@ -39,14 +39,14 @@ progress {
 template {
   display: none;
 }
-a {
+footer a {
   background-color: transparent;
   -webkit-text-decoration-skip: objects;
   padding: 15px;
   border-radius: 15px;
 }
-a:active,
-a:hover {
+footer a:active,
+footer a:hover {
   outline-width: 0;
   background: linear-gradient(140deg, #e66465, #9198e5);
   padding: 15px;
