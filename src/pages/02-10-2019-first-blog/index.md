@@ -3,4 +3,4 @@ path : '/first-post'
 title: 'First Blog Post'
 ---
 
-# Hello! my blog
+Hello! my blog
